@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## ✨ A propos de moi
-- 👨‍💻 Je m'appelle Lucas, je suis Développeur Web chez Tracify
+- 👨‍💻 Je m'appelle Lucas, je suis Développeur Web Fullstack
 - 🎓 En ce moment je m'intéresse au TDD et à l'architecture
 
 ## ⚒️ Skills

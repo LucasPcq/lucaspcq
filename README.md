@@ -1,6 +1,8 @@
 ### Hello ! Je suis Lucas 👋
 ---
 
+- 🧙‍♂️ Développeur passionné avec **plus de 3 ans d'expérience**, dont 2 ans en start-up
+
 - 🔭 Actuellement **Développeur Frontend** chez [@fulll](https://github.com/fulll)
 
 - 🚀 Je travaille principalement avec **Typescript**, **React** et **Node**

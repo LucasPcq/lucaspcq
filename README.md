@@ -1,15 +1,15 @@
 ### Hello ! Je suis Lucas 👋
 ---
 
-- 🧙‍♂️ Développeur passionné avec **plus de 3 ans d'expérience**, dont 2 ans en start-up
+- 🧙‍♂️ **Plus de 3 ans** d’expérience dont 2 ans en start-up
 
 - 🔭 Actuellement **Développeur Frontend** chez [@fulll](https://github.com/fulll)
 
-- 🚀 Je travaille principalement avec **Typescript**, **React** et **Node**
+- 🚀 Je travaille principalement au quotidien avec **Typescript**, **React** et **Node**
 
-- 🎒 Adepte qui souhaite continuer de se spécialiser sur du **Software Craftmanship**, **Testing** et **Functional Programming**
+- 🎒 Adepte du **Software Craftmanship** et de **Functional Programming**
 
-- ⚡ En ce moment je me forme sur **Effect.ts**, **Software Architecture** et du **Testing**
+- ⚡ En ce moment je me forme sur **Effect.ts**, ainsi que sur les différents types de **Software Testing**
 
 ### 🚀 Languages, Frameworks and Tools 
 ---

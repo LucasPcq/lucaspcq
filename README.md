@@ -1,7 +1,7 @@
 ### Hello ! Je suis Lucas 👋
 ---
 
-- 🧙‍♂️ **Plus de 3 ans** d’expérience dont 2 ans en start-up
+- 🧙‍♂️ **Plus de 3 ans** d’expérience dont 2 ans en start-up dans la santé
 
 - 🔭 Actuellement **Développeur Frontend** chez [@fulll](https://github.com/fulll)
 

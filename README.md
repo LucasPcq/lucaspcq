@@ -7,9 +7,7 @@
 
 - 🚀 Je travaille principalement au quotidien avec **Typescript**, **React** et **Node**
 
-- 🎒 Adepte du **Software Craftmanship** et de **Functional Programming**
-
-- ⚡ En ce moment je me forme sur **Effect.ts**, ainsi que sur les différents types de **Software Testing**
+- 🎒 Adepte du **Software Craftsmanship** et accro à la **Type Safety** et par conséquent à **Typescript**
 
 ### 🚀 Languages, Frameworks and Tools 
 ---

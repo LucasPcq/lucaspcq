@@ -7,7 +7,7 @@
 
 - 🚀 Je travaille principalement au quotidien avec **Typescript**, **React** et **Node**
 
-- 🎒 Adepte du **Software Craftsmanship** et accro à la **Type Safety** et par conséquent à **Typescript**
+- 🎒 Adepte du **Software Craftsmanship** et accro à la **Type Safety**
 
 ### 🚀 Languages, Frameworks and Tools 
 ---

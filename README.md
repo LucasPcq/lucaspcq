@@ -3,8 +3,6 @@
 
 - 🧙‍♂️ **Plus de 4 ans** d’expérience dont 2 ans en start-up dans la santé
 
-- 🔭 Actuellement **Développeur Frontend** chez [@fulll](https://github.com/fulll)
-
 - 🚀 Je travaille principalement au quotidien avec **Typescript**, **React** et **Node**
 
 - 🎒 Adepte du **Software Craftsmanship** et accro à la **Type Safety**
